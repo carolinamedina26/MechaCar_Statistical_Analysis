@@ -33,6 +33,7 @@ Is does not predit it effectively because the Intercept variable is significant,
 The total variance is 62.3, which is less than 100 pound per square inch (PSI),which meets the manufacturing specifications. The detail lot analysis reflect that similar means and medians but most importantly that the variance on LOT 3 is 170.3 which is outside of the manufacturing specification of 100 PSI. 
 
 ## Deliverable 3- T-Tests on Suspension Coils
+<img src"https://github.com/carolinamedina26/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_3_1_0.png">
 
 <img src="https://github.com/carolinamedina26/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_3_2_1.png">
 
