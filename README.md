@@ -39,6 +39,7 @@ The total variance is 62.3, which is less than 100 pound per square inch (PSI),w
 **Lot #1** P value is equal to 1 which suggests no difference between the groups other than due to chance.
 
 <img src="https://github.com/carolinamedina26/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_3_2_2.png">
+
 **Lot #2** Our P value is higher than 0.05 therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
 
 <img src="https://github.com/carolinamedina26/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_3_2_3.png">
