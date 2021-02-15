@@ -32,7 +32,7 @@ Is does not predit it effectively because the Intercept variable is significant,
 
 The total variance is 62.3, which is less than 100 pound per square inch (PSI),which meets the manufacturing specifications. The detail lot analysis reflect that similar means and medians but most importantly that the variance on LOT 3 is 170.3 which is outside of the manufacturing specification of 100 PSI. 
 
-## Deliverable 3-- T-Tests on Suspension Coils
+## Deliverable 3- T-Tests on Suspension Coils
 
 <img src="https://github.com/carolinamedina26/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_3_1.png">
 <img src="https://github.com/carolinamedina26/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_3_2_1.png">
@@ -47,6 +47,28 @@ The total variance is 62.3, which is less than 100 pound per square inch (PSI),w
 
 **Lot #3:** Our p value is lower than 0.05 which indicates strong evidence against the null hypothesis, as there is less than a 5% probability the null is correct. Therefore, we reject the null hypothesis, and accept the alternative hypothesis.
 
+## Deliverable 4 ##
 
+**Study Design: MechaCar vs Competition**
 
+Our analysis would like to find our is MechaCar can be positioned in the market as the best safety/cost car in the market.
 
+**What metric or metrics are you going to test?**
+
+1. Initial Cost
+2. Maintenance Cost
+3. Safety rating 
+
+**What is the null hypothesis or alternative hypothesis?** 
+
+Null Hypothesis: The safety rating of cars does not affect the cost of a car.
+
+**What statistical test would you use to test the hypothesis? And why?**
+Preform a t-test to evaluate the statistical differences between MechaCar and its competitors, together with the second variable which is the safety performance.
+
+**What data is needed to run the statistical test?**
+
+1. Sale price 
+2. Average maintenance cost
+3. Security rating per model
+4. Rate of accidents per model
