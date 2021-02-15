@@ -34,7 +34,6 @@ The total variance is 62.3, which is less than 100 pound per square inch (PSI),w
 
 ## Deliverable 3- T-Tests on Suspension Coils
 
-<img src="https://github.com/carolinamedina26/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_3_1.png">
 <img src="https://github.com/carolinamedina26/MechaCar_Statistical_Analysis/blob/main/Resources/Deliverable_3_2_1.png">
 
 **Lot #1:** P value is equal to 1 which suggests no difference between the groups other than due to chance.
