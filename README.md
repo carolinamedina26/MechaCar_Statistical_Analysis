@@ -51,7 +51,7 @@ The total variance is 62.3, which is less than 100 pound per square inch (PSI),w
 
 **Study Design: MechaCar vs Competition**
 
-Our analysis would like to find our is MechaCar can be positioned in the market as the best safety/cost car in the market.
+Our analysis would like to find out if MechaCar can be positioned in the market as the best safety/cost cars in the market.
 
 **What metric or metrics are you going to test?**
 
@@ -64,7 +64,7 @@ Our analysis would like to find our is MechaCar can be positioned in the market 
 Null Hypothesis: The safety rating of cars does not affect the cost of a car.
 
 **What statistical test would you use to test the hypothesis? And why?**
-Preform a t-test to evaluate the statistical differences between MechaCar and its competitors, together with the second variable which is the safety performance.
+Preform a t-test to evaluate the statistical differences between MechaCar and its competitors, together with the second variable which is the safety performance. 
 
 **What data is needed to run the statistical test?**
 
